@@ -9,11 +9,9 @@ Doe een WCAG test op een bestaande website en rapporteer daar over.
 
 Ik heb de website van https://www.thuisbezorgd.nl/ getest. Hierop is online eten te bestellen.
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/112856292/197477130-e2520f37-cbcd-472c-850a-c95d9fc5b413.png">
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/112856292/197477478-65c20b87-dd7c-4e1a-96c1-fb48d2e1230b.png">
 
-Toon een screenshot van het Lighthouse Accessibility test resultaat.
-
-Schrijf een een samenvatting van de test bevindingen.
 
 
 ## Licentie
